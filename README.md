@@ -1,2 +1,2 @@
-# whatcom-outdoor-services
-Whatcom Outdoor Services
+# Whatcom Outdoor Services
+
