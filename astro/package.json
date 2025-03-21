@@ -1,5 +1,5 @@
 {
-  "name": "astro",
+  "name": "whatcom-outdoor-services",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.5.3"
+    "@astrojs/mdx": "^4.0.8",
+    "astro": "^5.5.3",
+    "marked": "^15.0.7"
   }
 }

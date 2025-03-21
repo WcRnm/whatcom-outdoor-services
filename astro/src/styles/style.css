@@ -1,0 +1,25 @@
+@import url(pico/css/pico.orange.css);
+
+.grid {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  grid-template-rows: 1fr;
+  column-gap: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .grid {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/* Vertical nav dropdown */
+aside nav details.dropdown {
+  width: 95%;
+  margin-top: 0.1em;
+}
+
+.wide95 {
+  width: 95%;
+}
